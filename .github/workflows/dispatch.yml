@@ -2,7 +2,7 @@ name: Dispatch Submodule Update
 on: push
 env:
   submodule_name: dotfiles-test-sub1
-  dotfiles_repo: rainbartown/dotfiles-repo
+  dotfiles_repo: rainbartown/dotfiles-test-main
 
 jobs:
   dispatch:
